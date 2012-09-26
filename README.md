@@ -1,6 +1,6 @@
 ## Whitespace
 
- * Tabs not spaces.
+ * Spaces not tabs.
  * End files with a newline.
 
 ## Documentation
